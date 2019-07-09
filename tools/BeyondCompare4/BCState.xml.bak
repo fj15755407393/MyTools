@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Produced by Beyond Compare 4 from Scooter Software -->
+<BCState Version="1" MinVersion="1">
+	<TBcState>
+		<FirstStartup Value="False"/>
+		<FormPositions>
+			<TProfileBrowseDialog Value="255;0;1097;811"/>
+			<TViewFrame Value="2562;241;3360;788;3"/>
+		</FormPositions>
+	</TBcState>
+	<TDirCompareState>
+		<LogHeight Value="0"/>
+		<ShowToolbar Value="False"/>
+	</TDirCompareState>
+	<THomeState>
+		<SessionType Value="TTextCompareSession"/>
+	</THomeState>
+	<TTextCompareState>
+		<LeftMRUSpecs>
+			<_0 Value="C:\Users\fangjun\Desktop\Audio.prefab"/>
+			<_1 Value="C:\Users\fangjun\Desktop\Mus.prefab"/>
+			<_2 Value="E:\iris-fall_fangjun\Client\TOS2017_WwiseProject\Events\Level_07.wwu"/>
+			<_3 Value="C:\Users\fangjun\Desktop\Level_07.wwu"/>
+			<_4 Value="C:\Users\fangjun\Desktop\Corridor.unity"/>
+			<_5 Value="E:\iris-fall_fangjun\Client\TOS2017_WwiseProject\GeneratedSoundBanks\Android\English(US)\Main.bnk"/>
+			<_6 Value="E:\iris-fall_fangjun\SwitchProject\example.nsp"/>
+		</LeftMRUSpecs>
+		<MRUFonts>
+			<_0 Value="Consolas;10"/>
+		</MRUFonts>
+		<RightMRUSpecs>
+			<_0 Value="E:\iris-fall_fangjun\Client\Assets\Prefabs\Attic\Audio\Audio.prefab"/>
+			<_1 Value="E:\iris-fall_fangjun\Client\Assets\Prefabs\Passageway\Audio\Mus.prefab"/>
+			<_2 Value="E:\iris-fall_fangjun\Client\TOS2017_WwiseProject\Events\Level_07.wwu"/>
+			<_3 Value="E:\iris-fall_fangjun\Client\Assets\Scenes\Corridor\Corridor.unity"/>
+			<_4 Value="E:\iris-fall_fangjun\Client\TOS2017_WwiseProject\GeneratedSoundBanks\Windows\English(US)\Main.bnk"/>
+			<_5 Value="E:\iris-fall_fangjun\SwitchProject\IrisFall-20190111-1722\output.nsp"/>
+		</RightMRUSpecs>
+	</TTextCompareState>
+	<TTextFindState>
+		<FindItems>
+			<_0 Value="Play_Jingle_07_01"/>
+			<_1 Value="music"/>
+		</FindItems>
+		<ReplaceItems>
+			<_0/>
+		</ReplaceItems>
+	</TTextFindState>
+</BCState>

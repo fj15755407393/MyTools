@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Produced by Beyond Compare 4 from Scooter Software -->
+<BCSessions Version="1" MinVersion="1">
+	<TSessionFolder>
+		<Items>
+			<TSessionFolder>
+				<Items>
+					<TTextCompareSession Value="Audio.prefab">
+						<LastModified Value="2019-02-22 20:48:56"/>
+						<Specs>
+							<Left Value="C:\Users\fangjun\Desktop\Audio.prefab"/>
+							<Right Value="E:\iris-fall_fangjun\Client\Assets\Prefabs\Attic\Audio\Audio.prefab"/>
+						</Specs>
+					</TTextCompareSession>
+					<TTextCompareSession Value="Mus.prefab">
+						<LastModified Value="2019-02-21 21:34:41"/>
+						<Specs>
+							<Left Value="C:\Users\fangjun\Desktop\Mus.prefab"/>
+							<Right Value="E:\iris-fall_fangjun\Client\Assets\Prefabs\Passageway\Audio\Mus.prefab"/>
+						</Specs>
+					</TTextCompareSession>
+					<TTextCompareSession Value="Corridor.unity">
+						<LastModified Value="2019-01-23 17:50:40"/>
+						<Specs>
+							<Left Value="C:\Users\fangjun\Desktop\Corridor.unity"/>
+							<Right Value="E:\iris-fall_fangjun\Client\Assets\Scenes\Corridor\Corridor.unity"/>
+						</Specs>
+						<State>
+							<DisplayFilter Value="[showLeftMod, showRightMod, showDiffMod]"/>
+						</State>
+					</TTextCompareSession>
+					<TTextCompareSession Value="Main.bnk">
+						<CodePageOverride>
+							<Left Value="0"/>
+						</CodePageOverride>
+						<LastModified Value="2019-01-22 18:06:57"/>
+						<Specs>
+							<Left Value="E:\iris-fall_fangjun\Client\TOS2017_WwiseProject\GeneratedSoundBanks\Android\English(US)\Main.bnk"/>
+							<Right Value="E:\iris-fall_fangjun\Client\TOS2017_WwiseProject\GeneratedSoundBanks\Windows\English(US)\Main.bnk"/>
+						</Specs>
+						<State>
+							<DisplayFilter Value="[showLeftMod, showRightMod, showDiffMod]"/>
+						</State>
+					</TTextCompareSession>
+					<TTextCompareSession Value="example.nsp &lt;--> output.nsp">
+						<CodePageOverride>
+							<Left Value="1200"/>
+							<Right Value="1200"/>
+						</CodePageOverride>
+						<LastModified Value="2019-01-11 17:48:12"/>
+						<Specs>
+							<Left Value="E:\iris-fall_fangjun\SwitchProject\example.nsp"/>
+							<Right Value="E:\iris-fall_fangjun\SwitchProject\IrisFall-20190111-1722\output.nsp"/>
+						</Specs>
+					</TTextCompareSession>
+				</Items>
+			</TSessionFolder>
+		</Items>
+	</TSessionFolder>
+</BCSessions>
